@@ -1,0 +1,9 @@
+01 N nick1    standard                       #new user nick1 category standard
+02 N nick2    standard                       #new user nick2 category standard
+03 N nick3    standard                       #new user nick3 category standard
+04 N nick4    standard                       #new user nick3 category standard
+05 S
+06 D nick1                                   #delete user nick1
+07 S
+08 D nick5                                   #Error: Delete not possible
+09 S
